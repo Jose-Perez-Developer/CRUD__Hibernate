@@ -1,5 +1,9 @@
 # ADjunto direcciones importantes
 
+Integrantes:
+José Miguel Pérez Quintanilla PQ170903
+David Enrique Moya Aguilar MA172014
+
 
 infografia: https://drive.google.com/file/d/1valCu0CVYm5Q1ysdBTtfzDEKeVWpO5uB/view?usp=sharing
 
